@@ -1,0 +1,39 @@
+_repo: History-of-Dogma-Volume-2_19613
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Buchanan, Neil
+    alias: Buchanan, N. (Neil)
+    gutenberg_agent_id: '8783'
+    url: http://www.gutenberg.org/2009/agents/8783
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harnack, Adolf von
+    aliases:
+    - Harnack, Adolph
+    - Harnack, Carl Gustav Adolf von
+    - Harnack, Karl Gustav Adolf
+    birthdate: 1851
+    deathdate: 1930
+    gutenberg_agent_id: '8782'
+    url: http://www.gutenberg.org/2009/agents/8782
+    wikipedia: http://en.wikipedia.org/wiki/Adolf_von_Harnack
+description: V. 6. History of dogma in the period of Clugny, Anselm, and Bernard --
+  History of dogma in the period of the mendicant monks, till the beginning of the
+  sixteenth century.
+gutenberg_issued: '2006-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theology, Doctrinal -- History'
+- !lcc 'BT'
+title: History of Dogma, Volume 2
+url: http://www.gutenberg.org/ebooks/19613
